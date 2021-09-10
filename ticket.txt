@@ -1,0 +1,46 @@
+NOAPARA
+10
+BELGACHIA
+10
+SHYAMBAZAR
+10
+SOVABAZAR SUTANUTI
+10
+GIRISH PARK
+15
+MAHATMA GANDHI RD
+15
+CENTRAL
+15
+CHANDNI CHOWK
+15
+ESPLANADE
+15
+Park Street
+15
+Maidan
+20
+Rabindra Sadan
+20
+Netaji Bhavan
+20
+Jatin Das Park
+20
+Kalighat
+20
+Rabindra Sarobar
+20
+Mahanayak Uttam Kumar
+20
+Netaji
+20
+Masterda Surya Sen
+20
+Gitanjali
+25
+Kavi Nazrul
+25
+Shahid Khudiram
+25
+Kavi Subhash
+25
